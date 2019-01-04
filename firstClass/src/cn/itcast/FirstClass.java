@@ -25,5 +25,8 @@ public class FirstClass {
         int i = 0;
         i += 10;
         System.out.println(i);
+        int b = 111;
+        i += b;
+        System.out.println(i);
     }
 }
